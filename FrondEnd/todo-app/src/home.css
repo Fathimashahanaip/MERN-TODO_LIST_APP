@@ -1,0 +1,14 @@
+.line_through{
+    text-decoration: line-through;
+}
+.container{
+    display: flex;
+    /* background-color: black; */
+    color: antiquewhite;
+    align-content: center;
+}
+.container div{
+    background-color: black;
+    align-items: center;
+    width: 100%;
+}
